@@ -11,10 +11,8 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
-
 		<!-- Wrapper -->
 			<div id="wrapper" class="divided">
-
 				<!-- One -->
 					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 						<div class="content">
@@ -76,6 +74,7 @@
 						<div class="inner">
 							<h2>回忆文集</h2>
 							<p>泪水浇灌灵犹在。</p>
+							<div w3-include-html="love.html"></div> 
 						</div>
 
 						<!-- Gallery -->
@@ -163,6 +162,7 @@
 			</div>
 
 		<!-- Scripts -->
+			<script src="https://www.w3schools.com/lib/w3data.js"></script>
 			<script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
 			<script src="js/plugins.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
@@ -173,5 +173,6 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 
+			<script>w3IncludeHTML();</script>
 	</body>
 </html>
