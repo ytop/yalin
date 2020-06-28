@@ -2,8 +2,7 @@
 <?php
 function getbbs()
 {
-    //$host_yalin = 'localhost';
-    $host_yalin = '192.168.0.30';
+    $host_yalin = 'localhost';
     $conn = mysqli_connect($host_yalin, 'u320137374_yalin', '88t1374A', 'u320137374_yalin');
     mysqli_query($conn, "set names utf8");
     if ($conn) {      
@@ -32,9 +31,8 @@ function putbbs($rowname, $rowtext, $rowts)
         mysqli_query($conn, $sqlstr);
     }
     */
-    //$host_yalin = 'localhost';
+    $host_yalin = 'localhost';
     /*
-    $host_yalin = '192.168.0.30';
     $conn = mysqli_connect($host_yalin, 'u320137374_yalin', '88t1374A', 'u320137374_yalin');
     mysqli_query($conn, "set names utf8");
     if ($conn) {
