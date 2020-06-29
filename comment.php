@@ -20,4 +20,4 @@ if($query)  {
     $data = array("code" => 1, "message"=>"success","user" => $user , "txt" => $txt);
     echo json_encode($data);
 }
-?>
+

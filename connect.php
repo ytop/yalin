@@ -9,4 +9,4 @@ mysqli_select_db($link,$db_name);//选择数据库
 mysqli_query($link,"SET names UTF8");//设置数据库编码格式
 
 header("Content-Type: text/html; charset=utf-8");//设置头部样式
-?>
+

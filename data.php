@@ -7,4 +7,4 @@ while($row=mysqli_fetch_array($q)){
 
 }
 echo json_encode($comments);
-?>
+

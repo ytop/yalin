@@ -262,7 +262,7 @@
 	</div>
 
 	<script src="https://www.w3schools.com/lib/w3data.js"></script>
-	<script src="js/plugins.js"></script>
+	<script src="assets/js/plugins.js"></script>
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrollex.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>
@@ -272,8 +272,6 @@
 	<script src="assets/js/main.js"></script>
 
 	<script>w3IncludeHTML();</script>
-
-    <!-- <script type="text/javascript" src="js/jquery.js"></script> -->
     <script type="text/javascript">
             $(function() {
                 var comments = $("#comments");
@@ -306,8 +304,5 @@
                 });
             });
     </script>
-
-
 </body>
-
 </html>
