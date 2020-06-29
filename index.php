@@ -241,7 +241,7 @@
              <div>
                 <div id="post">
                     <h3>留言</h3>
-                    <p>昵称：</p>
+                    <p>名字：</p>
                     <p><input type="text" class="input" id="user" /></p>
                     <p>内容：</p>
                     <p><textarea class="input" id="txt" style="width:100%; height:80px"></textarea></p>

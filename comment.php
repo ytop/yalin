@@ -5,7 +5,7 @@ include_once("connect.php");
 $user = htmlspecialchars(trim($_POST['user']));
 $txt = htmlspecialchars(trim($_POST['txt']));
 if(empty($user)){
-    $data = array("code"=>355,"message"=>"昵称不能为空！");
+    $data = array("code"=>355,"message"=>"名字不能为空！");
     echo json_encode($data);
     exit;
 }
