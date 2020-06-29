@@ -1,4 +1,3 @@
-<?php include 'db.php';?>
 <!DOCTYPE HTML>
 <html lang="cn">
 
