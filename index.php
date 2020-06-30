@@ -36,6 +36,9 @@
                 text-align: center;
                 display: none;
             }
+            #more{
+                display: none;
+            }
     </style>
 </head>
 
@@ -141,6 +144,7 @@
 				<h2>回忆文集</h2>
 				<p>如果你要泪水浇灌，我愿天天哭泣。</p>
 				<div w3-include-html="love.html"></div>
+                <button onclick="myFunction()" id="myBtn">阅读全文</button>
 			</div>
 
 			<!-- Gallery -->
@@ -291,8 +295,7 @@
                         success: function(res) {
                             if (res.code == 1) {
                                 var str = "<p><strong>" + res.user + "</strong>：" + res.txt + "<span>刚刚</span></p>";
-								comments.prepend(str);
-
+                                comments.prepend(str);
                                 $("#message").show().html("发表成功！").fadeOut(1000);
                                 $("#txt").attr("value", "");
                             } else {
@@ -302,6 +305,23 @@
                     });
                 });
             });
+    </script>
+    <script>
+    function myFunction() {
+      var dots = document.getElementById("dots");
+      var moreText = document.getElementById("more");
+      var btnText = document.getElementById("myBtn");
+    
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.innerHTML = "阅读全文";
+        moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        btnText.innerHTML = "收起";
+        moreText.style.display = "inline";
+      }
+    }
     </script>
 </body>
 </html>
