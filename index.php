@@ -241,8 +241,8 @@
              <div>
                 <div id="post">
                     <h3>留言</h3>
-                    <p><label for="user">名字：</label><input type="text" id="user" /></p>
-                    <p><label for="txt">内容:</label><textarea id="txt" style="width:100%; height:80px"></textarea></p>
+                    <center><p><label for="user">名字：</label><input type="text" id="user" style="width:80%"/></p></center>
+                    <center><p><label for="txt">内容:</label><textarea id="txt" style="width:80%; height:80px"></textarea></p></center>
                     <p><input type="submit" value="发表" id="add" /></p>
                     <div id="message"></div>
                 </div>
