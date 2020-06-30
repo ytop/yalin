@@ -291,7 +291,8 @@
                         success: function(res) {
                             if (res.code == 1) {
                                 var str = "<p><strong>" + res.user + "</strong>：" + res.txt + "<span>刚刚</span></p>";
-                                comments.append(str);
+								comments.prepend(str);
+
                                 $("#message").show().html("发表成功！").fadeOut(1000);
                                 $("#txt").attr("value", "");
                             } else {
