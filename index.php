@@ -241,11 +241,9 @@
              <div>
                 <div id="post">
                     <h3>留言</h3>
-                    <p>名字：</p>
-                    <p><input type="text" class="input" id="user" /></p>
-                    <p>内容：</p>
-                    <p><textarea class="input" id="txt" style="width:100%; height:80px"></textarea></p>
-                    <p><input type="submit" class='btn'value="发表" id="add" /></p>
+                    <p><label for="user">名字：</label><input type="text" id="user" /></p>
+                    <p><label for="txt">内容:</label><textarea id="txt" style="width:100%; height:80px"></textarea></p>
+                    <p><input type="submit" value="发表" id="add" /></p>
                     <div id="message"></div>
                 </div>
                 <div id="comments"></div>
@@ -261,7 +259,7 @@
 
 	</div>
 
-	<script src="https://www.w3schools.com/lib/w3data.js"></script>
+	<script src="assets/js/w3data.js"></script>
 	<script src="assets/js/plugins.js"></script>
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrollex.min.js"></script>
