@@ -29,6 +29,7 @@
                 <source src="img/audio/YalinDefinePerfect.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
+            <p><br></p>
             <ul class="actions stacked">
                 <li><a href="video_kids.html" class="button big wide smooth-scroll-middle">更多视频</a></li>
                 <li><a href="image_best.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
@@ -113,6 +114,21 @@
         </div>
         <div class="image">
             <img src="img/ill/a.jpg" alt=""/>
+        </div>
+    </section>
+
+    <!-- Seven -->
+    <section
+            class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+        <div class="content">
+            <h2>安息之地</h2>
+            <p>绿水青草伴鲜花（墓碑定制中...）。</p>
+            <ul class="actions stacked">
+                <li><a href="image_rest.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+            </ul>
+        </div>
+        <div class="image">
+            <img src="img/rest/a.png" alt=""/>
         </div>
     </section>
 
