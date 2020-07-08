@@ -1,12 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
 
-/*
-	Story by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -8601,3 +8595,36 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+/* Coments */
+#comments {
+	margin: 10px auto;
+}
+
+#post {
+	margin-top: 10px;
+}
+
+#comments p,
+#post p {
+	line-height: 30px;
+}
+
+#comments p span {
+	margin: 4px;
+	color: #bdb8b8;
+}
+
+#message {
+	position: absolute;
+	top: 40%;
+	left: 100px;
+	width: 200px;
+	height: 50px;
+	background: #f2f2f2;
+	border: 1px solid;
+	border-radius: 3px;
+	line-height: 50px;
+	text-align: center;
+	display: none;
+}
