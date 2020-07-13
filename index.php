@@ -24,7 +24,7 @@
             class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
         <div class="content">
             <h1>最美的雅琳！</h1>
-            <p class="major">只要我们记着你，你就活着。<br>这首歌的名字是 Yalin e Define. Perfect. -- "雅琳定义完美“</p>
+            <p class="major">只要我们记着你，你就活着。<br>Yalin e Defne. Perfect.</p>
             <audio controls>
                 <source src="img/audio/YalinDefinePerfect.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
