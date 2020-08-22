@@ -115,7 +115,7 @@
             </ul>
         </div>
         <div class="image">
-            <img src="img/ill/a.jpg" alt=""/>
+            <img src="img/ill/a_v2.png" alt=""/>
         </div>
     </section>
 
@@ -138,7 +138,7 @@
     <section class="wrapper style1 align-center">
         <div class="inner">
             <h2>回忆文集</h2>
-            <p>如果你要泪水浇灌，我愿天天哭泣。</p>
+            <p>心纯无瑕 性直不曲 天妒红尘 灵境永明</p>
             <div w3-include-html="love.html"></div>
             <button onclick="myFunction()" id="myBtn">阅读全文</button>
         </div>
