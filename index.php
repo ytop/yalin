@@ -38,7 +38,7 @@
             </ul>
         </div>
         <div class="image">
-            <img src="img/best/a.jpg" alt=""/>
+            <img src="img/best/a_v2.jpg" alt=""/>
         </div>
 
     </section>
@@ -70,7 +70,7 @@
             </ul>
         </div>
         <div class="image">
-            <img src="img/love/a.jpg" alt=""/>
+            <img src="img/love/a_v2.jpg" alt=""/>
         </div>
     </section>
 
@@ -100,7 +100,7 @@
             </ul>
         </div>
         <div class="image">
-            <img src="img/student/a.png" alt=""/>
+            <img src="img/student/a_v2.png" alt=""/>
         </div>
     </section>
 
@@ -130,7 +130,7 @@
             </ul>
         </div>
         <div class="image">
-            <img src="img/rest/a.png" alt=""/>
+            <img src="img/rest/a_v2.png" alt=""/>
         </div>
     </section>
 
