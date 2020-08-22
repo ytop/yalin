@@ -23,10 +23,12 @@
     <section
             class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
         <div class="content">
-            <h1>最美的雅琳！</h1>
-            <p class="major">只要我们记着你，你就活着。<br>Yalin e Defne. Perfect.</p>
+            <h1>Yalin in Eternity.</h1>
+            <p class="major">千山万水一念只追颦……
+             <br>When everything that ticked– has stopped– 
+             <br>And Space stares– all around– </p>
             <audio controls>
-                <source src="img/audio/YalinDefinePerfect.mp3" type="audio/mpeg">
+                <source src="img/audio/butterflylover.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
             <p><br></p>
