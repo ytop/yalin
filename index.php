@@ -2,7 +2,7 @@
 <html lang="cn">
 
 <head>
-    <title>星辰间的雅琳</title>
+    <title>Yalin Memorial</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
     <link rel="stylesheet" href="assets/css/main.css"/>
@@ -24,17 +24,16 @@
             class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
         <div class="content">
             <h1>Yalin in Eternity.</h1>
-            <p class="major">千山万水一念只追颦……
-             <br>When everything that ticked– has stopped– 
-             <br>And Space stares– all around– </p>
+            <p class="major">When everything that ticked– has stopped–
+                <br>And Space stares– all around– </p>
             <audio controls>
                 <source src="img/audio/butterflylover.mp3" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
             <p><br></p>
             <ul class="actions stacked">
-                <li><a href="video_kids.html" class="button big wide smooth-scroll-middle">更多视频</a></li>
-                <li><a href="image_best.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="video_kids.html" class="button big wide smooth-scroll-middle">Watch Video</a></li>
+                <li><a href="image_best.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
@@ -51,7 +50,7 @@
             <h2>我们曾经那么幸福</h2>
             <p>都把最好的自己献给彼此。</p>
             <ul class="actions stacked">
-                <li><a href="image_happy.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="image_happy.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
@@ -66,7 +65,7 @@
             <h2>如水如诗的年华</h2>
             <p>那时你的笑靥如甘泉。</p>
             <ul class="actions stacked">
-                <li><a href="image_love.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="image_love.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
@@ -81,7 +80,7 @@
             <h2>爱你的孩子们</h2>
             <p>多少欢愉。</p>
             <ul class="actions stacked">
-                <li><a href="image_kids.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="image_kids.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
@@ -96,7 +95,7 @@
             <h2>青春</h2>
             <p>绽放的军中玫瑰。</p>
             <ul class="actions stacked">
-                <li><a href="image_student.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="image_student.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
@@ -111,7 +110,7 @@
             <h2>生病的日子</h2>
             <p>永远乐观的你，即使在化疗时。</p>
             <ul class="actions stacked">
-                <li><a href="image_ill.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="image_ill.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
@@ -126,7 +125,7 @@
             <h2>安息之地</h2>
             <p>绿水青草伴鲜花（墓碑定制中...）。</p>
             <ul class="actions stacked">
-                <li><a href="image_rest.html" class="button big wide smooth-scroll-middle">更多图片</a></li>
+                <li><a href="image_rest.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
