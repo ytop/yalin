@@ -123,13 +123,13 @@
             class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
         <div class="content">
             <h2>安息之地</h2>
-            <p>绿水青草伴鲜花（墓碑定制中...）。</p>
+            <p>相守相伴20年，立华陪着你。</p>
             <ul class="actions stacked">
                 <li><a href="image_rest.html" class="button big wide smooth-scroll-middle">See More Images</a></li>
             </ul>
         </div>
         <div class="image">
-            <img src="img/rest/a_v2.png" alt=""/>
+            <img src="img/rest/a_v3.png" alt=""/>
         </div>
     </section>
 
