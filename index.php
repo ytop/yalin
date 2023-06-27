@@ -138,7 +138,7 @@
         <div class="inner">
             <h2>回忆文集</h2>
             <p>心纯无瑕 性直不曲 天妒红尘 灵境永明</p>
-            <div w3-include-html="love_v9.html"></div>
+            <div w3-include-html="love_a.html"></div>
             <button onclick="myFunction()" id="myBtn">阅读全文</button>
         </div>
 
