@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$db_user = "u320137374_yalin";
-$db_pass = "88t1374A";
-$db_name = "u320137374_yalin";
+$db_user = "wwrlktte_yalin2";
+$db_pass = "881374tA#$";
+$db_name = "wwrlktte_yalin";
 
 $link = mysqli_connect($host, $db_user, $db_pass);//连接数据库主机
 mysqli_select_db($link, $db_name);//选择数据库
